@@ -25,16 +25,6 @@ A sophisticated quiz system built with React, featuring intelligent result mappi
 ## 📦 Installation
 
 
-```
-
-## 🚀 Quick Start Guide
-
-</div>
-
-## 📦 Installation & Setup
-
-### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/AliKelDev/QuizMapperJS
 cd quiz-mapper
@@ -496,9 +486,6 @@ npm run dev
 npm test
 ```
 
-## 📄 License
-
-QuizMapper is MIT licensed. See [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
@@ -511,5 +498,4 @@ QuizMapper is MIT licensed. See [LICENSE](LICENSE) for details.
 
 Need help? Contact us:
 
-- 📧 Email: support@quizmapper.dev
 - 💬 Twitter: [@AliLeisR](https://x.com/AliLeisR)
