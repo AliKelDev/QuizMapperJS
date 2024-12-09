@@ -5,7 +5,7 @@
 
 A sophisticated quiz system built with React, featuring intelligent result mapping, stunning animations, and seamless form integration.
 
-[View Demo](https://webpixelle3.netlify.app/quiz-select) • [Tutorial](https://aliceleiserblog.netlify.app/blog/building-interactive-quiz-system-react)
+[View Demo](https://quizmapperjs.netlify.app/) • [Tutorial](https://aliceleiserblog.netlify.app/blog/building-interactive-quiz-system-react)
 
 ![QuizMapper Demo](https://raw.githubusercontent.com/username/quizmapper/main/demo.gif)
 
